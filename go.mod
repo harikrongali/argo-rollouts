@@ -18,7 +18,7 @@ require (
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/juju/ansiterm v0.0.0-20180109212912-720a0952cc2a
 	github.com/mitchellh/mapstructure v1.4.3
-	github.com/newrelic/newrelic-client-go v0.72.0
+	github.com/newrelic/newrelic-client-go v0.86.3
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.11.0
 	github.com/prometheus/client_model v0.2.0
@@ -28,7 +28,7 @@ require (
 	github.com/soheilhy/cmux v0.1.5
 	github.com/spaceapegames/go-wavefront v1.8.1
 	github.com/spf13/cobra v1.3.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	github.com/tj/assert v0.0.3
 	github.com/valyala/fasttemplate v1.2.1
 	google.golang.org/genproto v0.0.0-20211208223120-3a66f561d7aa
@@ -142,6 +142,7 @@ require (
 	github.com/stretchr/objx v0.2.0 // indirect
 	github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
+	github.com/valyala/fastjson v1.6.3 // indirect
 	github.com/whilp/git-urls v0.0.0-20191001220047-6db9661140c0 // indirect
 	github.com/xlab/treeprint v0.0.0-20181112141820-a009c3971eca // indirect
 	go.starlark.net v0.0.0-20200306205701-8dd3e2ee1dd5 // indirect
